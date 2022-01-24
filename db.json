@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "state": "São Paulo",
+      "city": "Bauru",
+      "id": 1
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$Ag.xyJVUpXpMa7M4BHjdVeFg10LL.NnyBncPlHXPnXwy2CGv0RZNq",
+      "name": "Admin",
+      "state": "Santa Catarina",
+      "city": "Florianópolis",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Banana",
+      "category": "Frutas",
+      "price": 1.99,
+      "img": "https://static9.depositphotos.com/1642482/1149/i/950/depositphotos_11490585-stock-photo-bananas.jpg"
+    }
+  ]
+}
