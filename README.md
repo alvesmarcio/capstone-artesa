@@ -17,6 +17,7 @@ Exemplo de requisição para criação de usuários:
 {
 "email": "kenzinho@mail.com",
 "name": "Kenzinho",
+"password": "123456",
 "state": "São Paulo",
 "city": "Bauru",
 "id": 1
